@@ -1,3 +1,3 @@
 # first-prj
 This is my first repoistory.
-Gayatri k
+Author- Gayatri k
